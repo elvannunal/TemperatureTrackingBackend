@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cFdbYhQGUxIT0zKTIN9mTQG8Vg56555AomBHJ/qVRNA=",
+  "Source": "TemperatureTracking.API",
+  "BasePath": "_content/TemperatureTracking.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

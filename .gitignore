@@ -1,0 +1,20 @@
+/TemperatureTracking.sln
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+
+## [ Derleme Çıktıları]
+bin/
+obj/
+
+## [ Kullanıcı Ayarları ]
+*.user
+*.userosscache
+*.sln.docstates
+
+## [ Diğer ]
+.DS_Store
+.env

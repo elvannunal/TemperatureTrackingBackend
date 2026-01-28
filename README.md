@@ -10,7 +10,7 @@ Bu proje, **SignalR** ile gerçek zamanlı sıcaklık takibi yapan ve kritik sı
 * **EF Core Code-First:** Veritabanı şeması C# sınıfları üzerinden tasarlanmış ve Migrations ile yönetilmektedir.
 * **SignalR Hub:** Sunucuda üretilen veriler, WebSockets üzerinden frontend istemcisine anlık olarak iletilir.
 * **TemperatureWorker (Worker Service):** Uygulama arka planında 5 saniyede bir otonom olarak sıcaklık üretir, eşik kontrolü yapar ve veriyi Hub üzerinden yayınlar.
-* * **Dependency Injection:** Servis ömürleri (Scoped/Singleton) profesyonelce yönetilerek bağımlılık yönetimi optimize edilmiştir.
+* **Dependency Injection:** Servis ömürleri (Scoped/Singleton) profesyonelce yönetilerek bağımlılık yönetimi optimize edilmiştir.
 
 ---
 
@@ -26,7 +26,7 @@ Bu proje, **SignalR** ile gerçek zamanlı sıcaklık takibi yapan ve kritik sı
 
 1.  **Projeyi Klonlayın:**
     ```bash
-    git clone [proje-url]
+    git clone https://github.com/elvannunal/TemperatureTrackingBackend.git
     ```
 2.  **Bağımlılıkları Yükleyin:**
     ```bash
